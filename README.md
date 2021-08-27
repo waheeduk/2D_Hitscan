@@ -6,7 +6,7 @@ This short code written in C demonstrates a working example of a hitscan.
 
 ## Dependecies
 
-The code is written on top of the (https://github.com/raysan5/raylib/)[raylib library]. The raylib library is a small lightweight library written entirely in C to help encourage video game programming.
+The code is written on top of the [raylib library](https://github.com/raysan5/raylib/). The raylib library is a small lightweight library written entirely in C to help encourage video game programming.
 Instructions on how to compile raylib can be found on the [raylib wiki](https://github.com/raysan5/raylib/wiki).
 
 ## Licence
